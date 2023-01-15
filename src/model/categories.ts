@@ -17,45 +17,5 @@ export const categories = [
         description:
             'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
         buttonLabel: 'Take quiz',
-    },
-    {
-        logo: Javascript,
-        title: 'Javascript',
-        id: 'JS',
-        description:
-            'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
-        buttonLabel: 'Take quiz',
-    },
-    {
-        logo: Javascript,
-        title: 'Javascript',
-        id: 'JS',
-        description:
-            'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
-        buttonLabel: 'Take quiz',
-    },
-    {
-        logo: Javascript,
-        title: 'Javascript',
-        id: 'JS',
-        description:
-            'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
-        buttonLabel: 'Take quiz',
-    },
-    {
-        logo: Javascript,
-        title: 'Javascript',
-        id: 'JS',
-        description:
-            'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
-        buttonLabel: 'Take quiz',
-    },
-    {
-        logo: Javascript,
-        title: 'Javascript',
-        id: 'JS',
-        description:
-            'JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.',
-        buttonLabel: 'Take quiz',
-    },
+    }
 ]
